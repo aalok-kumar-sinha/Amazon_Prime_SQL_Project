@@ -1,1 +1,1 @@
-# prime_schema
+# Amazon_Prime_SQL_Project
