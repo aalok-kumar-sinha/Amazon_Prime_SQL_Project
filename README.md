@@ -1,1 +1,2 @@
 # Amazon_Prime_SQL_Project
+This project analyzes the success of Amazon Prime, dissecting how it addresses real-world problems such as convenience, cost savings, entertainment, environmental impact, customer loyalty, and innovation. The case study explores its evolution, impact on customer behavior, and the strategies employed by Amazon, emphasizing its vital role in reshaping e-commerce. The schema and ER diagram provided illustrate the foundational structure supporting Amazon Prime's functionalities.
